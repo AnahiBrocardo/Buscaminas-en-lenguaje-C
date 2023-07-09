@@ -1,0 +1,253 @@
+# depslib dependency file v1.0
+1687287773 source:c:\users\ilcap\onedrive\escritorio\juego pro\juego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687286592 c:\users\ilcap\onedrive\escritorio\juego pro\juego\juego.h
+
+1687287707 source:c:\users\ilcap\onedrive\escritorio\juego pro\juego\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687300567 source:c:\users\ilcap\onedrive\escritorio\proyectos\busca mina\juego\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687300858 c:\users\ilcap\onedrive\escritorio\proyectos\busca mina\juego\juego.h
+
+1687299973 source:c:\users\ilcap\onedrive\escritorio\proyectos\busca mina\juego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687298343 source:c:\users\ilcap\onedrive\escritorio\proyectos\busca mina\juego\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687305904 source:c:\users\gianf\downloads\busca mina\juego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687306786 c:\users\gianf\downloads\busca mina\juego\juego.h
+
+1687305924 source:c:\users\gianf\downloads\busca mina\juego\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687306860 source:c:\users\gianf\downloads\busca mina\juego\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687317350 source:c:\users\anahi\desktop\ss\testing\busca mina\busca mina\juego\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687317267 c:\users\anahi\desktop\ss\testing\busca mina\busca mina\juego\juego.h
+
+1687317267 source:c:\users\anahi\desktop\ss\testing\busca mina\busca mina\juego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687306968 source:c:\users\anahi\desktop\ss\testing\busca mina\busca mina\juego\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687376713 source:c:\users\gianf\downloads\busca mina\busca mina\juego\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687377853 c:\users\gianf\downloads\busca mina\busca mina\juego\juego.h
+
+1687379452 source:c:\users\gianf\downloads\busca mina\busca mina\juego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687379545 source:c:\users\gianf\downloads\busca mina\busca mina\juego\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687388494 source:c:\users\ilcap\onedrive\escritorio\trabajo final no borrar\busca mina\busca mina\juego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687387264 c:\users\ilcap\onedrive\escritorio\trabajo final no borrar\busca mina\busca mina\juego\juego.h
+
+1687389342 source:c:\users\ilcap\onedrive\escritorio\trabajo final no borrar\busca mina\busca mina\juego\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687389422 source:c:\users\ilcap\onedrive\escritorio\trabajo final no borrar\busca mina\busca mina\juego\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687396045 source:c:\users\gianf\downloads\trabajo final no borrar\busca mina\busca mina\juego\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687395959 c:\users\gianf\downloads\trabajo final no borrar\busca mina\busca mina\juego\juego.h
+
+1687393911 source:c:\users\gianf\downloads\trabajo final no borrar\busca mina\busca mina\juego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687394391 source:c:\users\gianf\downloads\trabajo final no borrar\busca mina\busca mina\juego\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687396046 source:c:\users\anahi\desktop\tp final buscaminas\definitivo v.62158796478365987236859763498675\trabajo final no borrar\busca mina\busca mina\juego\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687395960 c:\users\anahi\desktop\tp final buscaminas\definitivo v.62158796478365987236859763498675\trabajo final no borrar\busca mina\busca mina\juego\juego.h
+
+1687393912 source:c:\users\anahi\desktop\tp final buscaminas\definitivo v.62158796478365987236859763498675\trabajo final no borrar\busca mina\busca mina\juego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687394392 source:c:\users\anahi\desktop\tp final buscaminas\definitivo v.62158796478365987236859763498675\trabajo final no borrar\busca mina\busca mina\juego\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687435564 source:c:\users\anahi\desktop\tp final buscaminas -probar\definitivo v.62158796478365987236859763498675\trabajo final no borrar\busca mina\busca mina\juego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687395960 c:\users\anahi\desktop\tp final buscaminas -probar\definitivo v.62158796478365987236859763498675\trabajo final no borrar\busca mina\busca mina\juego\juego.h
+
+1687433640 source:c:\users\anahi\desktop\tp final buscaminas -probar\definitivo v.62158796478365987236859763498675\trabajo final no borrar\busca mina\busca mina\juego\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687434861 source:c:\users\anahi\desktop\tp final buscaminas -probar\definitivo v.62158796478365987236859763498675\trabajo final no borrar\busca mina\busca mina\juego\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687434861 source:c:\users\anahi\desktop\tp final buscaminas -\juego\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687395960 c:\users\anahi\desktop\tp final buscaminas -\juego\juego.h
+
+1687435564 source:c:\users\anahi\desktop\tp final buscaminas -\juego\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
+1687433640 source:c:\users\anahi\desktop\tp final buscaminas -\juego\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"string.h"
+	"juego.h"
+	"windows.h"
+
